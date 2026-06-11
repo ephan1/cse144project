@@ -234,8 +234,13 @@ Deterministic settings are enabled whenever possible.
 
 Best Kaggle Public Leaderboard Score:
 
-```
-0.56363
+``` 
+0.66363
+![Alt Text](finalscore.png)
+
+Best weights: 
+https://drive.google.com/drive/folders/1kqrI8zWGbueRNwXYjhtSfk2ZdThmTVb6?usp=sharing 
+
 ```
 
 using the ViT-B/16 transfer learning approach described above.
